@@ -1,5 +1,5 @@
 *Estimated time: 30 min*
-# Using Console and Arithmetic Operations in javascript
+# Using Console and Arithmetic Operations
 
 Web browsers ko bas 3 kaam karna aata hai:
 * HTML se content display karna
