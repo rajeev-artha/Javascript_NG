@@ -36,7 +36,7 @@ JavaScript mein ye operators hote hain:
 * - Unary negation
 * - Unary plus
 
-Aap in operators ke baare mein aur [yahan](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators) se bhad sakte hain.
+Aap in operators ke baare mein aur [yahan](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators) se padh sakte hain.
 
 **Homework**
 
