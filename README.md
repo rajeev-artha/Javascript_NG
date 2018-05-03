@@ -8,3 +8,6 @@ Javascript Tutorials for NG students
 *  [Variables](https://github.com/rajeev-artha/Javascript_NG/blob/master/variables.md)
 *  [Strings](https://github.com/rajeev-artha/Javascript_NG/blob/master/strings.md)
 *  [Methods](https://github.com/rajeev-artha/Javascript_NG/blob/master/methods.md)
+*  [Booleans]
+*  [Comparison Operators]
+*  [Assignment Operators]
